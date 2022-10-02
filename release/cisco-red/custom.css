@@ -1,14 +1,16 @@
 body {
 	background-color: #283033;
-	background-image: url(bg2.png);
+/* 	background-image: url(bg2.png); */
+	background-image: url(/tomatousb_bg.png);
 	
 }
 
 #container {
-width: 980px;
-height: 100%;
-border: none;
-margin:0px auto;
+	width: 980px;
+	height: 100%;
+	border: none;
+	margin:0px auto;
+	background-color: transparent;
 }
 
 a {
@@ -33,7 +35,8 @@ input[type='button']:hover {
 	background-image: url(cisco.png);
 	background-repeat: no-repeat;
 	background-position: right center;
-	background-color: #1e1e1e;
+/* 	background-color: #1e1e1e; */
+	background-color:transparent;
 	padding: 15px 10px;
 }
 
